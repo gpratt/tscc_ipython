@@ -1,0 +1,17 @@
+*.bed
+*.BED
+*.svg
+*.pdf
+*.txt
+*.png
+*.html
+*.sav
+*.ps
+*.xls
+*.csv
+*.fasta
+*.motif
+*.wig
+*.gtf
+*.db
+.out
